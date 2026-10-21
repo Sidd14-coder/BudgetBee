@@ -1,0 +1,2 @@
+gemini-1.5-flash (v1) => 404 Error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+gemini-1.5-pro (v1) => 404 Error: models/gemini-1.5-pro is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
